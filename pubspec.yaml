@@ -1,7 +1,7 @@
-name: flutter_template
-description: A sample command-line application.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+name: flutter_project_generator
+description: CLI tool to select the functionality you need and generate a Flutter project.
+version: 0.1.0
+repository: https://github.com/cos-overclock/flutter-project-generator
 
 environment:
   sdk: ^3.5.4

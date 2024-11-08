@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:flutter_template/model/project.dart';
 import 'package:get_it/get_it.dart';
 
-import 'package:flutter_template/model/console_manager/console_manager.dart';
+import 'package:flutter_project_generator/model/project.dart';
+import 'package:flutter_project_generator/model/console_manager/console_manager.dart';
 
 import 'package.dart';
 

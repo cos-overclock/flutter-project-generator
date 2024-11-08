@@ -1,7 +1,7 @@
-import 'package:flutter_template/model/console_manager/console_manager.dart';
 import 'package:get_it/get_it.dart';
 
 import 'feature_package/feature_package.dart';
+import 'console_manager/console_manager.dart';
 
 class Project {
   late final ConsoleManager manager;

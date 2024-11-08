@@ -1,7 +1,8 @@
 import 'package:dart_console/dart_console.dart';
 import 'package:get_it/get_it.dart';
-import 'package:flutter_template/model/console_manager/console_manager.dart';
-import 'package:flutter_template/model/flutter_feature/flutter_feature.dart';
+
+import 'package:flutter_project_generator/model/console_manager/console_manager.dart';
+import 'package:flutter_project_generator/model/flutter_feature/flutter_feature.dart';
 
 class FlutterFeatureSelector {
   late final ConsoleManager manager;
