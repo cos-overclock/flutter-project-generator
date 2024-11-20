@@ -1,0 +1,10 @@
+[package]
+name = "flutter-project-generator"
+version = "0.1.0"
+edition = "2021"
+description = "Supports project generation in line with functionality and logic."
+
+[dependencies]
+clap = { version = "4.5.20", features = ["derive"] }
+console = "0.15.8"
+dialoguer = "0.11.0"
